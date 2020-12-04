@@ -22,4 +22,4 @@ Mostly Palindromes are used to create music which have the second half same as t
 ##### References:
 * https://en.wikipedia.org/wiki/Palindrome
 * https://stackoverflow.com/questions/23861436/real-life-situations-using-palindrome-algorithm
-* Everything that was taught in classes and slides.
+* All other knowledge from classes and internet.

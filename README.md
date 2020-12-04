@@ -1,7 +1,7 @@
 # Computer Organization & Assembly Language
 ### Palindrome-MASM-x86-Assembly
 
-I use Irvine and Visual Studio to code in assembly language.
+I use Irvine and Visual Studio 2019 to code in assembly language.
 
 ##### Problem Statement/Real World Solution
 
@@ -22,4 +22,4 @@ Mostly Palindromes are used to create music which have the second half same as t
 ##### References:
 * https://en.wikipedia.org/wiki/Palindrome
 * https://stackoverflow.com/questions/23861436/real-life-situations-using-palindrome-algorithm
-* All other knowledge from classes and internet.
+* All the knowledge from classes and internet.

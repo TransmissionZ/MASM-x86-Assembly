@@ -12,11 +12,11 @@ Mostly Palindromes are used to create music which have the second half same as t
 
 ##### MASM Palindrome Check Expected Program Output
 
-[True Output](output/trueoutput.png)
+[True Output](output/trueoutput.png?raw=true)
 
 ##### Stack Frame
 
-[Stack Frame](stackframe/Stack%20Frame.jpg)
+[Stack Frame](stackframe/Stack%20Frame.jpg?raw=true)
 
 
 ##### References:

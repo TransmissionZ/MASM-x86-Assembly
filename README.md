@@ -16,7 +16,7 @@ Mostly Palindromes are used to create music which have the second half same as t
 
 ##### Stack Frame
 
-[Stack Frame](stackframe/stackframe.jpg)
+[Stack Frame](stackframe/Stack Frame.jpg)
 
 
 ##### References:
